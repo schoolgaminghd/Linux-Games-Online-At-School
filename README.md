@@ -55,7 +55,7 @@ wget http://raw.githubusercontent.com/ayunami2000/play-with-docker-novnc/main/ub
 ```
 (replace <insert name> with the name of the script)
 
-MINECRAFT
+Minecraft Launch Command
 ```
 wget http://raw.githubusercontent.com/ayunami2000/play-with-docker-novnc/main/ubuntu_minecraft_launcher.sh && chmod +x ubuntu_minecraft_launcher.sh && ./ubuntu_minecraft_launcher.sh
 ```
