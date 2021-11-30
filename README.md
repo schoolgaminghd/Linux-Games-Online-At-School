@@ -53,8 +53,12 @@ In order to launch any of the ubuntu scripts, you need to run the following comm
 ```
 wget http://raw.githubusercontent.com/ayunami2000/play-with-docker-novnc/main/ubuntu_<insert name>.sh && chmod +x ubuntu_<insert name>.sh && ./ubuntu_<insert name>.sh
 ```
-
 (replace <insert name> with the name of the script)
+
+MINECRAFT
+```
+wget http://raw.githubusercontent.com/ayunami2000/play-with-docker-novnc/main/ubuntu_minecraft_launcher.sh && chmod +x ubuntu_minecraft_launcher.sh && ./ubuntu_minecraft_launcher.sh
+```
 
 # Special thanks
 Special thanks go to FreddyFeuerstein (aka iAmInActions) for improving ubuntu scripts, laying the groundwork for audio and adding a minecraft launcher.
