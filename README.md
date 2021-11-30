@@ -60,5 +60,9 @@ Minecraft Launch Command
 wget http://raw.githubusercontent.com/ayunami2000/play-with-docker-novnc/main/ubuntu_minecraft_launcher.sh && chmod +x ubuntu_minecraft_launcher.sh && ./ubuntu_minecraft_launcher.sh
 ```
 
+Linux Desktop
+```
+wget https://raw.githubusercontent.com/iAmInActions/UsefullScripts/main/webdesktop.sh && chmod +x ./webdesktop.sh && ./webdesktop.sh
+```
 # Special thanks
 Special thanks go to FreddyFeuerstein (aka iAmInActions) for improving ubuntu scripts, laying the groundwork for audio and adding a minecraft launcher.
