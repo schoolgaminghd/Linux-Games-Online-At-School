@@ -21,6 +21,7 @@ _|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
           |_|___|___|\___/|_|___|_____|
 
 ```
+(NOTICE: THE SCRIPTS WILL BE UPDATED IF THE OFFICIAL VERSION OF THIS SITE GOES DOWN)
 instant web vnc WITH VIRTUALGL (THAT MEANS MINECRAFT!!)
 
 ubuntu ones are for katacoda ubuntu playground, alpine ones are for play with docker.
