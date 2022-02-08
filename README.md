@@ -1,4 +1,7 @@
 ```
+THIS IS NOT MY PROJECT I AM A IDIOT AND FORGOT TO FORK.
+ORIGINAL PROJECT: https://github.com/iAmInActions/play-with-docker-novnc 
+ORIGINAL PROJECT: https://github.com/ayunami2000/play-with-docker-novnc
                 ____  __           
                / __ \/ /___ ___  __
               / /_/ / / __ `/ / / /
@@ -66,4 +69,4 @@ Linux Desktop
 wget https://raw.githubusercontent.com/iAmInActions/UsefullScripts/main/webdesktop.sh && chmod +x ./webdesktop.sh && ./webdesktop.sh
 ```
 # Special thanks
-Special thanks go to FreddyFeuerstein (aka iAmInActions) for improving ubuntu scripts, laying the groundwork for audio and adding a minecraft launcher.
+Special thanks go to FreddyFeuerstein (aka iAmInActions) and Ayunami2000 for improving ubuntu scripts, laying the groundwork for audio and adding a minecraft launcher.
